@@ -1,5 +1,5 @@
 # codepath
 
-Solutions:
+Interviewbit homework:
 
-<img src="https://i.imgur.com/SEbypeA.gif"> Interviewbit pre-work</img>
+https://i.imgur.com/SEbypeA.gif"> 
