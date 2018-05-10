@@ -1,4 +1,5 @@
 # codepath
 
 Solutions:
-https://imgur.com/SEbypeA
+
+<img src="https://i.imgur.com/SEbypeA.gif"> Interviewbit pre-work</img>
