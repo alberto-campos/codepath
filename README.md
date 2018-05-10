@@ -2,4 +2,4 @@
 
 Interviewbit homework:
 
-https://i.imgur.com/SEbypeA.gif"> 
+https://i.imgur.com/SEbypeA.gif
